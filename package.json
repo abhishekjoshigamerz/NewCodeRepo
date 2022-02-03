@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "airtable": "^0.11.1",
+    "discord.js": "^12.5.3",
+    "discord.js-collector": "^1.8.9",
+    "dotenv": "^15.0.0"
+  }
+}
